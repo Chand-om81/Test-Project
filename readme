@@ -1,0 +1,12 @@
+
+
+Notes:
+
+This is maven based test project which test working flow of game selection of atg game website.
+changed version dependencies my cause error.
+
+on website this test case first select for the v4 game , if did not find then it will select other games v3 or v5 or V75 or V64
+
+so Better to check the website atg before executing this test case.
+
+Log file will be generated after execution finished

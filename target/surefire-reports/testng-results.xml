@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.atg.hast.testautomation.testcases.HastV4TestCase1" duration-ms="11853" started-at="2021-08-13T19:53:05 CEST" finished-at="2021-08-13T19:53:17 CEST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="11853" started-at="2021-08-13T19:53:05 CEST" finished-at="2021-08-13T19:53:17 CEST">
+      <class name="com.atg.hast.testautomation.testcases.HastV4TestCase1">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.atg.hast.testautomation.testcases.HastV4TestCase1@71318ec4]" name="setup" is-config="true" duration-ms="10261" started-at="2021-08-13T19:53:05 CEST" finished-at="2021-08-13T19:53:16 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="urlLoadTest()[pri:1, instance:com.atg.hast.testautomation.testcases.HastV4TestCase1@71318ec4]" name="urlLoadTest" duration-ms="51" started-at="2021-08-13T19:53:16 CEST" finished-at="2021-08-13T19:53:16 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlLoadTest -->
+        <test-method status="PASS" signature="acceptCookiesTest()[pri:2, instance:com.atg.hast.testautomation.testcases.HastV4TestCase1@71318ec4]" name="acceptCookiesTest" duration-ms="541" started-at="2021-08-13T19:53:16 CEST" finished-at="2021-08-13T19:53:16 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acceptCookiesTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.atg.hast.testautomation.testcases.HastV4TestCase1@71318ec4]" name="teardown" is-config="true" duration-ms="889" started-at="2021-08-13T19:53:16 CEST" finished-at="2021-08-13T19:53:17 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.atg.hast.testautomation.testcases.HastV4TestCase1 -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.atg.hast.testautomation.testcases.HastV4TestCase1 -->
+</testng-results>

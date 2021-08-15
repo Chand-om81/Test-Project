@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.atg.hast.testautomation.testcases.HastV4TestCase1
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.03 sec
